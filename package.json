@@ -1,6 +1,7 @@
 {
   "name": "myapp",
   "version": "0.1.0",
+  "homepage": "https://eaotnc.github.io/HowLongHaveYouBeenSingle",
   "private": true,
   "dependencies": {
     "react": "^16.8.6",
